@@ -33,54 +33,13 @@
             </div>
 
             <div class="columns is-multiline -mb-6">
-                <div class="column is-4 py-6 is-flex is-align-items-start">
-                    <span
-                        class="is-flex-shrink-0 mr-6 is-inline-flex is-justify-content-center is-align-items-center has-background-primary has-text-white"
-                        style="width: 48px; height: 48px; border-radius: 100%;">1</span>
-                    <p class="is-size-6 has-text-grey-dark">Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus
-                        sit
-                        amet tempus.</p>
-                </div>
-                <div class="column is-4 py-6 is-flex is-align-items-start">
-                    <span
-                        class="is-flex-shrink-0 mr-6 is-inline-flex is-justify-content-center is-align-items-center has-background-success has-text-white"
-                        style="width: 48px; height: 48px; border-radius: 100%;">2</span>
-                    <p class="is-size-6 has-text-grey-dark">Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus
-                        sit
-                        amet tempus.</p>
-                </div>
-                <div class="column is-4 py-6 is-flex is-align-items-start">
-                    <span
-                        class="is-flex-shrink-0 mr-6 is-inline-flex is-justify-content-center is-align-items-center has-background-info has-text-white"
-                        style="width: 48px; height: 48px; border-radius: 100%;">3</span>
-                    <p class="is-size-6 has-text-grey-dark">Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus
-                        sit
-                        amet tempus.</p>
-                </div>
-                <div class="column is-4 py-6 is-flex is-align-items-start">
-                    <span
-                        class="is-flex-shrink-0 mr-6 is-inline-flex is-justify-content-center is-align-items-center has-background-warning has-text-white"
-                        style="width: 48px; height: 48px; border-radius: 100%;">4</span>
-                    <p class="is-size-6 has-text-grey-dark">Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus
-                        sit
-                        amet tempus.</p>
-                </div>
-                <div class="column is-4 py-6 is-flex is-align-items-start">
-                    <span
-                        class="is-flex-shrink-0 mr-6 is-inline-flex is-justify-content-center is-align-items-center has-background-info has-text-white"
-                        style="width: 48px; height: 48px; border-radius: 100%;">5</span>
-                    <p class="is-size-6 has-text-grey-dark">Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus
-                        sit
-                        amet tempus.</p>
-                </div>
-                <div class="column is-4 py-6 is-flex is-align-items-start">
-                    <span
-                    class="is-flex-shrink-0 mr-6 is-inline-flex is-justify-content-center is-align-items-center has-background-primary has-text-white"
-                    style="width: 48px; height: 48px; border-radius: 100%;">6</span>
-                <p class="is-size-6 has-text-grey-dark">Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus
-                    sit
-                    amet tempus.</p>
+                <HowItWorksPoint text="Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus sit amet tempus" />
+                <HowItWorksPoint text="Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus sit amet tempus" />
+                <HowItWorksPoint text="Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus sit amet tempus" />
+                <HowItWorksPoint text="Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus sit amet tempus" />
+                <HowItWorksPoint text="Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus sit amet tempus" />
+                <HowItWorksPoint text="Etiam pellentesque non nibh non pulvinar. Mauris posuere, tellus sit amet tempus" />
             </div>
         </div>
-    </div>
-</section></template>
+    </section>
+</template>
